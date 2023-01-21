@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/backend/mask_rcnn_object_0005.h5
+/backend/mrcnn_demo/
